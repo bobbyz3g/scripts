@@ -9,3 +9,5 @@ Below is a description of the main directories and files in this project:
   - [`s3-download.py`](./python/s3-download.py): Script for downloading file from S3 server.
   - [`timestamp.py`](./python/timestamp.py): Script for getting/parsing unix timestamp.
 
+- **`shell/`**: Contains all the shell scripts.
+  - [`read-binlog.sh`](./shell/read-binlog.sh): Script for reading binlog file.
